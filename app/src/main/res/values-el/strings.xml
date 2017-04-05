@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">Σοκολάτα</string>
+    <string name="name">Όνομα</string>
+    <string name="order">Παραγγελία</string>
+    <string name="order_summary">Σύνολο Παργγελίας</string>
+    <string name="order_summary_chocolate">Βάλε Σοκολάτα: <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_whipped_cream">Βάλε Αφρόγαλα: <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="text_quantity">Ποσότητα</string>
+    <string name="thank_you">Ευχαριστούμε!</string>
+    <string name="toppings">Γαρνιρίσματα</string>
+    <string name="wipped_cream">Αφρόγαλα</string>
+    <string name="order_summary_email_subject">Παργγελία Just Java για <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_name">Όνομα: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_price">Σύνολο: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_quantity">Ποσότητα: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+</resources>
